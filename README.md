@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website <br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">Abinaya.tech</a>
+  <a href="https://portfolio-abinaya.vercel.app/" target="_blank">Abinaya.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./src/Assets/Projects/abinaya_full_stack_dev_image.png" />
