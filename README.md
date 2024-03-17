@@ -3,7 +3,7 @@
   <a href="https://soumyajit.vercel.app/" target="_blank">Abinaya.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/abinaya_full_stack_dev_image.png" />
+  <img alt="Demo" src="./src/Assets/Projects/abinaya_full_stack_dev_image.png" />
 </div>
 
 <br/>
